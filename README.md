@@ -24,5 +24,5 @@ In July 2020 we [reported](https://www.bbc.co.uk/news/uk-53334493) that the cost
 
 ## Related repos
 
-* We [reported on paupers funerals in 2019](https://github.com/BBC-Data-Unit/paupers-funerals)
+* We [reported on paupers' funerals in 2019](https://github.com/BBC-Data-Unit/paupers-funerals)
 
