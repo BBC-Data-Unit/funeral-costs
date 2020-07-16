@@ -6,7 +6,7 @@ In July 2020 we [reported](https://www.bbc.co.uk/news/uk-53334493) that the cost
 
 ## Get the data
 
-* TBC
+* XLSX: [Cremation costs](https://docs.google.com/spreadsheets/d/1BK_OYdmPQTDbKriTrGIgqZuAMFJJGORoQrAqpb6q7Rs/edit#gid=0)
 
 ## Interviews and quotes
 
